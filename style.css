@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: black;
+}
+
+h1{
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    font-size: 60px;
+}
+
+.clock {
+    padding: 40px;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    color: white;
+    background-color: #1760fe;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.date{
+    font-size: 30px;
+}
+
+.time{
+    padding-top: 10px;
+    font-size: 70px;
+}
